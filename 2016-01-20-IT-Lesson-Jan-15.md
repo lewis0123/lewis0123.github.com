@@ -1,12 +1,12 @@
 ---
-title: IT Lesson Jan 15
+title: IT Lesson 1
 layout: post
 author: joe.lewis
 permalink: /it-lesson-jan-15/
 source-id: 1c6Vo1kEXPsNNzv-tAJgcbaKe01ia5m21QEsOfWUabCk
 published: true
 ---
-**What we did in IT on January 15**
+**IT LESSON 1**
 
 This lesson was all about adverts media with, how it can be performed, what are the messages it is trying to give us and how and who to trust.
 
